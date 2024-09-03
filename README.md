@@ -2,7 +2,7 @@
 
 
 ### Aims
-This project aims to design and implement a program in Python to control mobile robots which will guide a robot on how to effectively manoeuvre its way through an environment while tracking an instance of a human or multiple humans using the pre-trained [ssd_mobilenet_v2_coco](https://docs.openvino.ai/2021.4/omz_models_model_ssd_mobilenet_v2_coco.html) for object detection.
+This project aims to design and implement a program in Python to control mobile robot. The program will guide a robot on how to effectively manoeuvre its way through an environment while tracking an instance of a human or multiple humans using the pre-trained [ssd_mobilenet_v2_coco](https://docs.openvino.ai/2021.4/omz_models_model_ssd_mobilenet_v2_coco.html) for object detection.
 . Additionally, the project seeks to implement several robot reactive behaviours and high level behaviours.
 
 ### Main tasks:
@@ -22,4 +22,4 @@ This project aims to design and implement a program in Python to control mobile 
 
 **Further Information:**   
 
-This project will use mobile robots built with the latest AI and sensing technology. The robots have a latest Realsense camera from Intel, a Nano board from Nvidia to support image processing and deep learning etc, proximity sensors, IMU, motors and driving circuits.  
+This project uses mobile robots built with the latest AI and sensing technology. The robots have a latest Realsense camera from Intel, a Nano board from Nvidia to support image processing and deep learning etc, proximity sensors, IMU, motors and driving circuits.  
